@@ -1,6 +1,6 @@
 const nameGirl = 'dear yen';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'quang';
+const eventName = '^-^';
 const titleCard = 'Tặng yến';
 const contentCard = 't mới tập làm nhưng nhìn c xinh lắm ^-^';
 
