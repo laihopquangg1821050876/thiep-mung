@@ -1,8 +1,8 @@
 const nameGirl = 'dear yen';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'quang';
-const titleCard = 'Tặng yen';
-const contentCard = 't moi tap lam co j gop y them nhe';
+const titleCard = 'Tặng yến';
+const contentCard = 't mới tập làm nhưng nhìn c xinh lắm ^-^';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
